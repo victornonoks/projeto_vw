@@ -1,0 +1,12 @@
+.title{
+    display:flex;
+    flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ width: 100vw;
+}
+div{
+    background-color: red;
+    width:50%; 
+    height: 25vh;
+}
