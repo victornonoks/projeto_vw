@@ -123,7 +123,7 @@ form input[type="submit"]:hover {
     cursor: pointer;
     margin-top: 1rem;
 }
-.footer .social-field a i {
+.footer .social-field a i{
     margin: 0 0.5rem;
     width: 15px;
 }
